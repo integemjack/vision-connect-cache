@@ -1,0 +1,1 @@
+https://uploads.github.com/repos/integemjack/vision-connect/releases/62985198/assets{?name,label}
